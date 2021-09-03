@@ -181,20 +181,6 @@
           "launch": "10/08/2021 10:00:00",
           "createdAt": "2021-07-26T16:12:30.516Z",
           "updatedAt": null
-        },
-        {
-          "id": "370066",
-          "style": "CV0559-245",
-          "name": "Camiseta NikeLab Essentials Masculina",
-          "photoUrl": "https://images.lojanike.com.br/1024x1024/produto/camiseta-manga-curta-m-nrg-tee-CV0559-245-1-11629993489.jpg",
-          "links": "https://www.nike.com.br/camiseta-nikelab-essentials-masculina-153-189-195-370069",
-          "stock": "",
-          "watchIntensity": 0,
-          "lastDiscount": null,
-          "price": 199.99,
-          "launch": "31/08/2021 10:00:00",
-          "createdAt": "2021-08-31T13:13:03.739Z",
-          "updatedAt": null
         }
       ]
 }
